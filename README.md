@@ -88,8 +88,6 @@ Social Media Apps like instagram, facebook , snapchat are best in the industry a
 
 ## Easy Installation:-
 
-- vscode: git clone https://github.com/Lisanle1/Social-Media-App.git
-
 > cd client
 > > npm install && npm start
 >
