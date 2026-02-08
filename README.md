@@ -11,22 +11,6 @@ A Full Stack Application of our Social Media App with a real-time chatting platf
 
 <img width="808" height="587" alt="image" src="https://github.com/user-attachments/assets/fb6eb0c8-9429-43f0-a64f-9dc1c5412c1a" />
 
-## Create Posts:-
-
-![Screenshot (133)](https://user-images.githubusercontent.com/105549298/210062673-d9484ec5-53e8-470a-baa5-c924e2202c81.png)
-
-### Receiving post with notification
-
-![screenshot (134)](https://user-images.githubusercontent.com/105549298/210062689-60a6ca7a-7702-4ccb-9256-a7b97183caa9.png)
-
-![Screenshot (135)](https://user-images.githubusercontent.com/105549298/210062695-584f8c92-936f-4921-a73e-7a0b41f73c4b.png)
-
-## Chat window:-
-
-![Screenshot (136)](https://user-images.githubusercontent.com/105549298/210062706-0d7562b2-f37a-42df-8e6e-928d76498e2c.png)
-
-![Screenshot (137)](https://user-images.githubusercontent.com/105549298/210062707-a57fb56a-a176-4c94-970c-476206527100.png)
-
 ## Admin Dashboard:-
 <img width="1265" height="567" alt="Screenshot 2026-02-08 113916" src="https://github.com/user-attachments/assets/8db7ef91-801d-49c7-8888-d17a0c631a52" />
 
@@ -93,25 +77,3 @@ Social Media Apps like instagram, facebook , snapchat are best in the industry a
 > cd server
 > > npm install && npm run dev
 >
-
-#### Note: Use mongodb atlas url and create cloudinary account to store your images. Paste your links in process.env respectively. 
-
-
-## Demo Credentials:-
-
-<details>
-<summary>Admin Login</summary>
-
-- email: admin@gmail.com  
-password: admin123
-</details>
-
-<details>
-<summary>Users Login</summary>
-
-- User1 email: lisan@gmail.com  
-password: lisan123
-
-- User2 email: vishnu@gmail.com  
-password: vishnu123
-</details>
