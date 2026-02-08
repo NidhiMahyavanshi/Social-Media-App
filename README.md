@@ -5,8 +5,6 @@ A Full Stack Application of our Social Media App with a real-time chatting platf
 ## Login / Signup Pages;-
 <img width="1540" height="703" alt="Screenshot 2026-02-08 113005" src="https://github.com/user-attachments/assets/6ece0d08-b6c0-49cb-ae43-1423516b6b09" />
 
-![Screenshot (131)](https://user-images.githubusercontent.com/105549298/210062669-7bfed690-ee23-4f36-83ef-44930a42fee6.png)
-
 ![Screenshot (132)](https://user-images.githubusercontent.com/105549298/210062670-e03c4e94-dcf5-40c1-b416-216594d9c0d0.png)
 
 ## Landing Page:-
