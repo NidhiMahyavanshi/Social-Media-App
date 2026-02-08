@@ -28,7 +28,7 @@ A Full Stack Application of our Social Media App with a real-time chatting platf
 ![Screenshot (137)](https://user-images.githubusercontent.com/105549298/210062707-a57fb56a-a176-4c94-970c-476206527100.png)
 
 ## Admin Dashboard:-
-![Screenshot (138)](https://user-images.githubusercontent.com/105549298/210062662-facc23db-5cc5-4655-b54f-c077274e9eb5.png)
+<img width="1265" height="567" alt="Screenshot 2026-02-08 113916" src="https://github.com/user-attachments/assets/8db7ef91-801d-49c7-8888-d17a0c631a52" />
 
 
 Social Media Apps like instagram, facebook , snapchat are best in the industry and moving forward with that making our social media app with covers almost all features which bring out real-time experience to the users.
