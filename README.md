@@ -9,7 +9,7 @@ A Full Stack Application of our Social Media App with a real-time chatting platf
 
 ## Landing Page:-
 
-![screenshot (133a)](https://user-images.githubusercontent.com/105549298/210062683-0b0d3722-7e1e-405d-a02c-b6b5a8cadd88.png)
+<img width="808" height="587" alt="image" src="https://github.com/user-attachments/assets/fb6eb0c8-9429-43f0-a64f-9dc1c5412c1a" />
 
 ## Create Posts:-
 
